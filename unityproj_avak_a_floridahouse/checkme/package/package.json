@@ -1,7 +1,7 @@
 {
   "name": "com.microsoft.altspacevr_uploader",
   "displayName": "AltspaceVR Uploader",
-  "version": "2.2.19",
+  "version": "2.2.24",
   "description": "Upload asset bundles for use in AltspaceVR",
   "author": "Microsoft",
   "license": "MIT",

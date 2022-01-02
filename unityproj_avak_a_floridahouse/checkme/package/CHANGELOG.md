@@ -1,6 +1,21 @@
 Changelog
 ===========
 
+2.2.24
+-------
+
+* Fix meta files from previous release
+
+2.2.23
+-------
+
+* Fix username/password authentication (introduced in 2.2.22)
+
+2.2.22
+-------
+
+* Fix upload config persistence issues
+
 2.2.19
 -------
 

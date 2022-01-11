@@ -1,7 +1,11 @@
 {
   "dependencies": {
     "com.microsoft.altspacevr_uploader": {
+<<<<<<< HEAD
       "version": "file:com.microsoft.altspacevr_uploader-2.2.24.tgz",
+=======
+      "version": "file:MixedReality/com.microsoft.altspacevr_uploader-2.2.16.tgz",
+>>>>>>> parent of 1ad769c (update uploader, remove collider and fix ups)
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {

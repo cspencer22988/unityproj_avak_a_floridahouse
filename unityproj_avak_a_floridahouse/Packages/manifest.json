@@ -1,6 +1,10 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.microsoft.altspacevr_uploader": "file:com.microsoft.altspacevr_uploader-2.2.24.tgz",
+=======
+    "com.microsoft.altspacevr_uploader": "file:MixedReality/com.microsoft.altspacevr_uploader-2.2.16.tgz",
+>>>>>>> parent of 1ad769c (update uploader, remove collider and fix ups)
     "com.unity.collab-proxy": "1.3.9",
     "com.unity.ext.nunit": "1.0.6",
     "com.unity.ide.rider": "2.0.7",

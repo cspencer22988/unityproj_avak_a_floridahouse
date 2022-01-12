@@ -9,8 +9,13 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: River
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Shader: {fileID: 4800000, guid: 8d2bb70cbf9db8d4da26e15b26e74248, type: 3}
   m_ShaderKeywords: _ALPHAPREMULTIPLY_ON _NORMALMAP
+=======
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+  m_ShaderKeywords: LKWD_LIGHTMAP_ON VERTEX_COLOUR _ALPHAPREMULTIPLY_ON _NORMALMAP
+>>>>>>> parent of 1ad769c (update uploader, remove collider and fix ups)
 =======
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
   m_ShaderKeywords: LKWD_LIGHTMAP_ON VERTEX_COLOUR _ALPHAPREMULTIPLY_ON _NORMALMAP
